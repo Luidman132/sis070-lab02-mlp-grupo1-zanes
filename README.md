@@ -11,6 +11,7 @@ Implementacion de un perceptron multicapa (MLP) con retropropagacion manual en N
 ```text
 sis070-lab02-mlp-grupo1-zanes/
 |-- src/
+|   |-- __init__.py
 |   `-- mlp_implementation.py
 |-- README.md
 |-- requirements.txt
