@@ -1,18 +1,23 @@
 # SIS070 - Guia de laboratorio 04: MLP y backpropagation
 
+**Estudiante:** Luidman Zanes  
+**Grupo:** 1  
+**Repositorio publico:** [sis070-lab02-mlp-grupo1-zanes](https://github.com/Luidman132/sis070-lab02-mlp-grupo1-zanes)
+
 Implementacion de un perceptron multicapa (MLP) con retropropagacion manual en NumPy. El conjunto XOR permite comprobar la propagacion hacia adelante, el calculo de gradientes y la actualizacion de pesos y sesgos.
 
 ## Estructura
 
 ```text
-sis070-lab02-mlp-[grupo]-[apellido]/
+sis070-lab02-mlp-grupo1-zanes/
 |-- src/
 |   `-- mlp_implementation.py
 |-- README.md
-`-- requirements.txt
+|-- requirements.txt
+`-- .gitignore
 ```
 
-El nombre del repositorio debe sustituir `[grupo]` y `[apellido]` por los datos asignados, siguiendo la nomenclatura de la guia: `sis070-lab02-mlp-[GRUPO N__]-[apellido]`.
+El nombre sigue la nomenclatura solicitada en la guia (`sis070-lab02-mlp-[grupo]-[apellido]`), usando el grupo 1 y el apellido Zanes.
 
 ## Requisitos y ejecucion
 
@@ -81,4 +86,4 @@ El fragmento de la guia define MSE con el promedio del error cuadratico, pero en
 
 ## Entrega en GitHub
 
-La guia solicita publicar un repositorio publico con el nombre indicado arriba y entregar su enlace en el aula virtual. Una vez completados el grupo y apellido del nombre, se debe publicar la carpeta raiz de este proyecto y copiar el enlace al espacio de entrega del curso.
+La guia solicita publicar un repositorio publico y entregar su enlace en el aula virtual. El repositorio de este trabajo es [https://github.com/Luidman132/sis070-lab02-mlp-grupo1-zanes](https://github.com/Luidman132/sis070-lab02-mlp-grupo1-zanes); copia ese enlace en el espacio de entrega del curso.
